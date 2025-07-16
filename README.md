@@ -32,5 +32,5 @@ Los tests están escritos con:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/arielmalerba84/CotoBirthdayBookingTest.git
 cd tu_repositorio
