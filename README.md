@@ -33,4 +33,4 @@ Los tests están escritos con:
 
 ```bash
 git clone https://github.com/arielmalerba84/CotoBirthdayBookingTest.git
-cd tu_repositorio
+
